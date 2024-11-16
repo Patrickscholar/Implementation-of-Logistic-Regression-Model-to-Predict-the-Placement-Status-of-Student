@@ -27,5 +27,6 @@ RegisterNumber: 24900019
 
 ## Output:
 <img width="665" alt="Screenshot 2024-11-15 at 8 15 29 PM" src="https://github.com/user-attachments/assets/deb05c85-dcd5-4e32-8b86-26931f823069">
+<img width="1160" alt="Screenshot 2024-11-15 at 8 16 00 PM" src="https://github.com/user-attachments/assets/03d1905d-b170-4372-ae25-c12419cdf403">
 
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
